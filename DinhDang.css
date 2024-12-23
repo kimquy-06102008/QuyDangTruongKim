@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: auto;
+}
+.tren{
+	height: 100px;
+}
+.menu1{
+	float: left;
+	margin-left: 1px;
+	margin: auto
+}
+.menu1 a{
+	padding-left: 10px;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+.menu2{
+	margin-left: 10px;
+}
+.menu2 a{
+	padding-left: 200px;
+	text-decoration: none;
+	color: #7E7979
+}
